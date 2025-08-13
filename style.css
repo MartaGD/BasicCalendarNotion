@@ -85,8 +85,8 @@ h3{
 table {
     margin: 0 auto;
     text-align: center;
-    border-collapse: separate;
-    border-spacing: 1rem;
+    border-collapse: separate !important;
+    border-spacing: 1rem !important;
     color: white;
 }
 
@@ -96,7 +96,6 @@ td {
 
 #monthArea {
     background-color: #0f4e77;
-
     border-radius: 8px;
     padding: 1rem;
     box-shadow: 0.2rem 0.2rem gray;
