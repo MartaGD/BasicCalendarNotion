@@ -1,0 +1,116 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+}
+
+#selection-area{
+    padding: 20px;
+    width: 30%;
+    margin: 0;
+    display: inline-block;
+    background: #f8c419; 
+}
+
+.selectionDiv {
+    /*text-align: left;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.selectors {
+    width: -webkit-fill-available;
+    height: 40px;
+    margin-top: 6px;
+}
+
+#urlArea {
+    width: -webkit-fill-available;
+    height: fit-content;
+    margin-top: 6px;
+    overflow: hidden;
+}
+
+.section-area{
+margin-top: 3%;
+margin-bottom: 6%;
+}
+
+.section-area-inside{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+h3{
+    font-weight: bold;
+}
+
+.text-label{
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.btn-DM{
+    color: #fff;
+    background-color: #282829;
+    border-color: #525255;
+}
+
+.btn-LM{
+    color: #000000;
+    background-color: #fcfadf;
+    border-color: #f3f2e4;
+}
+
+  #preview{
+    padding: 20px;
+    height: 100vh;
+    width: 70%;
+    margin: 0;
+    display: flex;
+    float: right;
+    justify-content: center;
+    align-items: center;
+}
+
+.dark-mode{
+    background-color: #282829;
+    color: #fff;
+}
+
+
+table {
+    margin: 0 auto;
+    text-align: center;
+    border-collapse: collapse;
+    border-spacing: 1rem;
+        color: white;
+}
+
+td {
+    padding: 2%;
+}
+
+#monthArea {
+    background-color: #0f4e77;
+
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0.2rem 0.2rem gray;
+}
+
+#calendarArea {
+    background-color: #89a376;
+  
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0.2rem 0.2rem gray;
+}
+
+#dayNumArea {
+    font-size: xx-large;
+    font-weight: bold;
+}
