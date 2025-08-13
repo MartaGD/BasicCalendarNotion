@@ -85,9 +85,9 @@ h3{
 table {
     margin: 0 auto;
     text-align: center;
-    border-collapse: collapse;
+    border-collapse: separate;
     border-spacing: 1rem;
-        color: white;
+    color: white;
 }
 
 td {

@@ -37,6 +37,7 @@ function setColor(id, color){
 }
 
 function onLoad(){
+    document.getElementById("urlArea").innerHTML = urlWidget;
     setCalendar();
 }
 
