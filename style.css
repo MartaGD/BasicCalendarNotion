@@ -86,7 +86,7 @@ table {
     margin: 0 auto;
     text-align: center;
     border-collapse: separate !important;
-    border-spacing: 1rem !important;
+    border-spacing: 0.3rem !important;
     color: white;
 }
 
