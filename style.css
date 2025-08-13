@@ -86,7 +86,7 @@ table {
     margin: 0 auto;
     text-align: center;
     border-collapse: separate !important;
-    border-spacing: 0.1rem !important;
+    border-spacing: 0.3rem !important;
     color: white;
 }
 
@@ -102,8 +102,7 @@ td {
 }
 
 #calendarArea {
-    background-color: #89a376;
-  
+    background-color: #89a376;  
     border-radius: 8px;
     padding: 1rem;
     box-shadow: 0.2rem 0.2rem gray;

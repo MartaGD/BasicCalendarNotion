@@ -22,15 +22,13 @@ td {
 
 #monthArea {
     background-color: #0f4e77;
-
     border-radius: 8px;
     padding: 1rem;
     box-shadow: 0.2rem 0.2rem gray;
 }
 
 #calendarArea {
-    background-color: #89a376;
-  
+    background-color: #89a376;  
     border-radius: 8px;
     padding: 1rem;
     box-shadow: 0.2rem 0.2rem gray;
